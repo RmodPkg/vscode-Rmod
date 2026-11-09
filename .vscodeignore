@@ -1,0 +1,12 @@
+src/**
+tsconfig.json
+package-lock.json
+*.vsix
+images/*.svg
+images/*.mp4
+images/vscode-Rmod.png
+.gitignore
+.vscode/**
+node_modules/**
+README.md
+README.marketplace.md
